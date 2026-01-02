@@ -2,6 +2,6 @@ POST http://localhost:3001/api/notes/
 Content-Type: application/json
 
 {
-    "content": "note created from vscode 1/1",
+    "content": "not",
     "important": true
 }
