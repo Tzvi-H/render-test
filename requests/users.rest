@@ -7,8 +7,8 @@ Content-Type: application/json
 
 {
     "username": "root",
-    "name": "Superuser",
-    "password": "salainen"
+    "name": "root",
+    "password": "root"
 }
 
 ###
@@ -17,5 +17,5 @@ Content-Type: application/json
 
 {
     "username": "root",
-    "password": "salainen"
+    "password": "root"
 }
